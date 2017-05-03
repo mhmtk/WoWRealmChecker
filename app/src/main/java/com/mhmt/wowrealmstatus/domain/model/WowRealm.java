@@ -1,4 +1,4 @@
-package com.mhmt.wowrealmstatus;
+package com.mhmt.wowrealmstatus.domain.model;
 
 
 public class WowRealm {
